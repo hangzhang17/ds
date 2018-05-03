@@ -1,8 +1,8 @@
 # ds
 Downloads
-1. Python https://www.python.org/downloads/
-2. Anaconda https://www.anaconda.com/download/
-3. Pycharm community version https://www.jetbrains.com/pycharm/download/#section=windows
+Python https://www.python.org/downloads/
+Anaconda https://www.anaconda.com/download/
+Pycharm community version https://www.jetbrains.com/pycharm/download/#section=windows
 
 First read:
 Python 3.6.5 documentation https://docs.python.org/3/
