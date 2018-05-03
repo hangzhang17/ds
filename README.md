@@ -2,7 +2,9 @@
 Downloads
 
 Python https://www.python.org/downloads/
+
 Anaconda https://www.anaconda.com/download/
+
 Pycharm community version https://www.jetbrains.com/pycharm/download/#section=windows
 
 First reads
